@@ -1,0 +1,1 @@
+Run the index.html on a browser.
